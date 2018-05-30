@@ -1,8 +1,4 @@
 
-#background {
-  position: absolute;
-}
-
 .gif {
   border: solid;
 }
@@ -13,4 +9,10 @@
   background-attachment: fixed;
   background-size: auto auto;
   background-position: center;
+}
+
+.container{
+  background-color:#edf2ea;
+  height: 94vh;
+  margin-top: 25px
 }
